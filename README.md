@@ -1,1 +1,1 @@
-# epic_project
+# Source code for the EPIC project
