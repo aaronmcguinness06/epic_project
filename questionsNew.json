@@ -1,0 +1,218 @@
+[
+    {
+        "category": "COMP SCIENCE",
+        "difficulty": "Novice",
+        "question": "What does Equivalence relation hold?",
+        "options": [
+            "Reflexivity, Symmetry and Equality",
+            "Reflexivity, Symmetry and Transitivity",
+            "Reflexivity, Antisymmetry and Transitivity"
+        ],
+        "correctOption": "B",
+        "points": "1"
+    },
+    {
+        "category": "COMP SCIENCE",
+        "difficulty": "Novice",
+        "question": "Explain the concept of variables in programming. How are they used, and why are they important in computer science?",
+        "options": [
+            "Variables are used to store constants in a program, and they are not crucial in computer science.",
+            "Variables are used to store and manipulate data, making it dynamic and essential in computer science.",
+            "Variables are only used in mathematical calculations and are not relevant in computer science."
+        ],
+        "correctOption": "B",
+        "points": "1"
+    },
+    {
+        "category": "COMP SCIENCE",
+        "difficulty": "Intermediate",
+        "question": "Which of the following statements about object-oriented programming (OOP) is true?",
+        "options": [
+            "Inheritance allows a class to inherit properties and behaviors from another class.",
+            "Polymorphism is the process of converting objects into primitive data types.",
+            "Encapsulation is primarily concerned with creating multiple instances of a class."
+        ],
+        "correctOption": "A",
+        "points": "2"
+    },
+    {
+        "category": "COMP SCIENCE",
+        "difficulty": "Intermediate",
+        "question": "In BDDs, if you have n variables, how many decision nodes do you have?",
+        "options": [
+            "n^2-1",
+            "2^n-1",
+            "n^2"
+        ],
+        "correctOption": "B",
+        "points": "2"
+    },
+    {
+        "category": "COMP SCIENCE",
+        "difficulty": "Expert",
+        "question": "How would you represent binary integers using <integer> and <digit> (you define it as <integer>?",
+        "options": [
+            "<digit> ::= <digit><integer> | <digit>\n <digit> ::= 1 | 0",
+            "<integer> ::= <integer><digit> | <digit>\n <integer> ::= 0 | 1",
+            "<integer> ::= <digit><integer> | <digit>\n <digit> ::= 0 | 1"
+        ],
+        "correctOption": "C",
+        "points": "3"
+    },
+    {
+        "category": "COMP SCIENCE",
+        "difficulty": "Expert",
+        "question": "In distributed systems, what is the CAP theorem?",
+        "options": [
+            "It describes the three essential components of a database management system.",
+            "It defines the trade-offs between consistency, availability, and partition tolerance in distributed databases.",
+            "It outlines the principles of network security for cloud-based applications."
+        ],
+        "correctOption": "B",
+        "points": "3"
+    },
+    {
+        "category": "COMP ORG",
+        "difficulty": "Novice",
+        "question": "What is the central processing unit (CPU) in a computer responsible for?",
+        "options": [
+            "Managing the computer's network connections",
+            "Performing arithmetic and logic operations on data",
+            "Storing files and documents"
+        ],
+        "correctOption": "B",
+        "points": "1"
+    },
+    {
+        "category": "COMP ORG",
+        "difficulty": "Novice",
+        "question": "In two’s complement, what do positive numbers have in common?",
+        "options": [
+            "They are negative in decimal system",
+            "Most significant bit is set to 0",
+            "Most significant bit is set to 1"
+        ],
+        "correctOption": "B",
+        "points": "1"
+    },
+    {
+        "category": "COMP ORG",
+        "difficulty": "Intermediate",
+        "question": "Convert 23,14 (base 10) to binary.",
+        "options": [
+            "10111.101",
+            "1011.011",
+            "10111.001"
+        ],
+        "correctOption": "C",
+        "points": "2"
+    },
+    {
+        "category": "COMP ORG",
+        "difficulty": "Intermediate",
+        "question": "In computer organization, what is the function of a control unit?",
+        "options": [
+            "To execute arithmetic and logic operations.",
+            "To manage system memory and storage.",
+            "To fetch, decode, and execute instructions stored in memory."
+        ],
+        "correctOption": "C",
+        "points": "2"
+    },
+    {
+        "category": "COMP ORG",
+        "difficulty": "Expert",
+        "question": "Which of the following is not a characteristic of Reduced Instruction Set Computing (RISC) architecture?",
+        "options": [
+            "Complex and lengthy instruction sets.",
+            "A large number of general-purpose registers.",
+            "A focus on simplicity and reduced execution time for instructions."
+        ],
+        "correctOption": "A",
+        "points": "3"
+    },
+    {
+        "category": "COMP ORG",
+        "difficulty": "Expert",
+        "question": "Convert 2B6 (hexadecimal) to ocal",
+        "options": [
+            "1266",
+            "1366",
+            "1260"
+        ],
+        "correctOption": "A",
+        "points": "3"
+    },
+    {
+        "category": "DISCRETE MATHS",
+        "difficulty": "Novice",
+        "question": "In a set, which of the following elements represents the Universal Set?",
+        "options": [
+            "The empty set ({})",
+            "The set containing all the elements under consideration.",
+            "The set with a single element."
+        ],
+        "correctOption": "B",
+        "points": "1"
+    },
+    {
+        "category": "DISCRETE MATHS",
+        "difficulty": "Novice",
+        "question": "What are the dimensions of an identity matrix? ",
+        "options": [
+            "n x n",
+            "n^2 x n",
+            "n x m"
+        ],
+        "correctOption": "A",
+        "points": "1"
+    },
+    {
+        "category": "DISCRETE MATHS",
+        "difficulty": "Intermediate",
+        "question": "In combinatorics, how many ways can you arrange the letters in the word 'COMPUTE' if no letter can be repeated in a single arrangement?",
+        "options": [
+            "1,260",
+            "5,040",
+            "10,080"
+        ],
+        "correctOption": "B",
+        "points": "2"
+    },
+    {
+        "category": "DISCRETE MATHS",
+        "difficulty": "Intermediate",
+        "question": "Find the sum of the first 7 terms of the geometric sequence 7,14,28,.. ",
+        "options": [
+            "767",
+            "1003",
+            "899"
+        ],
+        "correctOption": "C",
+        "points": "2"
+    },
+    {
+        "category": "DISCRETE MATHS",
+        "difficulty": "Expert",
+        "question": "In graph theory, what is the chromatic number of a graph?",
+        "options": [
+            "The maximum degree of a vertex in the graph.",
+            "The minimum number of colors required to color the vertices of the graph such that no adjacent vertices have the same color.",
+            "The number of edges in the graph."
+        ],
+        "correctOption": "B",
+        "points": "3"
+    },
+    {
+        "category": "DISCRETE MATHS",
+        "difficulty": "Expert",
+        "question": "What is the principle of mathematical induction used for in discrete mathematics?",
+        "options": [
+            "Proving theorems about prime numbers.",
+            "Proving statements about an infinite sequence of natural numbers.",
+            "Solving systems of linear equations."
+        ],
+        "correctOption": "B",
+        "points": "3"
+    }
+]
